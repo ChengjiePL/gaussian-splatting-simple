@@ -103,9 +103,3 @@ wget https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/datasets/input/tan
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-**Thanks for your interest in Easy Gaussian Splatting!**
-
-```
